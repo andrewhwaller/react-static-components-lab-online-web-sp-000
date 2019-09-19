@@ -5,7 +5,6 @@ export default class CatComponent extends Component {
     return (
       <div className="bar" id="cat">
         <img src="/cat.gif" />
-        <EinsteinQuoteComponent />
       </div>
     );
   }
